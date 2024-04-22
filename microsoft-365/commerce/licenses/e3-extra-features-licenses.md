@@ -43,22 +43,22 @@ Microsoft 365 E3 or E5 Extra Features provides additional features for your user
 
 |Feature  |Microsoft 365 E3 Extra Features  |Microsoft 365 E5 Extra Features  |
 |---------|---------|---------|
-|Avatars for Teams    | Yes       | Yes         |
-|Microsoft Copilot     | Yes       | Yes         |
-|Microsoft Clipchamp     | Yes       | Yes         |
-|Microsoft Loop     | Yes       | Yes         |
-|Windows Autopatch     | Yes       | Yes         |
-|Windows Update for Business deployment service     | Yes       | Yes         |
-|Customer Lockbox     | No        | Yes        |
-|Defender for IoT - Enterprise IoT Security     | No        | Yes        |
-|Immersive spaces for Teams     | No        | Yes        |
-|Information Protection and Governance Analytics - Premium     | No        | Yes        |
-|Microsoft Defender Application Guard for Office     | No        | Yes        |
-|Machine Learning-Based Classification     | No        | Yes        |
-|Microsoft Endpoint DLP     | No        | Yes        |
-|Microsoft Insider Risk Management     | No        | Yes        |
-|Safe Documents     | No        | Yes        |
-|Universal Print|Yes|Yes|
+|Avatars for Teams    | ✅       | ✅         |
+|Microsoft Copilot     | ✅       | ✅         |
+|Microsoft Clipchamp     | ✅       | ✅         |
+|Microsoft Loop     | ✅       | ✅         |
+|Windows Autopatch     | ✅       | ✅         |
+|Windows Update for Business deployment service     | ✅       | ✅         |
+|Customer Lockbox     | ❌        | ✅        |
+|Defender for IoT - Enterprise IoT Security     | ❌        | ✅        |
+|Immersive spaces for Teams     | ❌        | ✅        |
+|Information Protection and Governance Analytics - Premium     | ❌        | ✅        |
+|Microsoft Defender Application Guard for Office     | ❌        | ✅        |
+|Machine Learning-Based Classification     | ❌        | ✅        |
+|Microsoft Endpoint DLP     | ❌        | ✅        |
+|Microsoft Insider Risk Management     | ❌        | ✅        |
+|Safe Documents     | ❌        | ✅        |
+|Universal Print|✅|✅|
 
 ## Assign the Microsoft 365 E3 or E5 Extra Features license to users
 
